@@ -100,8 +100,7 @@ void searchElement(struct Node *head, int key) {
     }
     printf("Element not found!\n");
 }
-git config --global user.name "Your Name"
-git config --global user.email "your@email.com"
+
 void sortList(struct Node *head) {
     if (head == NULL) return;
 
